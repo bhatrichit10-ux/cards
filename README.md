@@ -1,6 +1,6 @@
 # cards
-my own very little pcb cards
-<br>
+my own very little pcb cards <br>
+They are built from scratch and use very simple core logics
 ## PCB
 <img width="805" height="471" alt="image" src="https://github.com/user-attachments/assets/39461bd1-8f37-42f5-9f53-9c627fc1a614" /> <br>
 <img width="877" height="518" alt="image" src="https://github.com/user-attachments/assets/101f0761-1cb8-4fd9-809b-3bb934e63fc5" /> <br>
